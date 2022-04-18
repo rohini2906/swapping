@@ -2,7 +2,7 @@
 void main()
 {
  int a,b,temp;
- printf("Enter any two no's\n");
+ printf("Enter any two numbers\n");
  scanf("%d%d",&a,&b);
  printf("Before swapping a=%d and b=%d\n",a,b);
  temp=a;
